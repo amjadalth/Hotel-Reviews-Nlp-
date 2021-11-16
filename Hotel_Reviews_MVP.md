@@ -1,4 +1,4 @@
-# Hotel Reviewa MVP
+# Hotel Reviews MVP
 ## Objective
 In this project we used a Hotel Reviews Data. Our observation is a customer's review which is represented by a textual feedback of the customer's experience a hotel.
 ## Preprocessing 
