@@ -31,7 +31,7 @@ Accordingly, we choose __Random Forest Classifier__ because it has the greatest 
 __Score__: 1.00<br/>
 
 #### Testing
-__Score__:  0.9823<br/>
+__Score__:  0.9842<br/>
 
 ## Tools
 Here the basic tools we used in our project: <br/>
